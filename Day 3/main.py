@@ -76,3 +76,7 @@ print(f"Final amount is {common_sum_as_float} $")
 print(f"Tips are {sum_of_tips} $")
 print(f"Each person's tip is {each_persons_tip} $")
 print(f"Each person should pay: {final_amount} $")
+
+
+
+
